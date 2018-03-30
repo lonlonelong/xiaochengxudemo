@@ -6,4 +6,3 @@
 
 下载微信客户端版本号：6.3.27 及以上 下载源码 版本20170111
 ![demo主页面](/image/wechatdemo1.jpeg "小程序主页面截图")
-![Alt text](/image/wechatdemo1.jpeg)
